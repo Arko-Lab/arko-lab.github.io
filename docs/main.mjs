@@ -246,8 +246,8 @@ _273:     (s) => {
 _276: l => new Array(l),
 _280: (o, p) => o[p],
 _284: o => String(o),
-_7075: (x0,x1) => x0.textContent = x1,
-_7080: () => globalThis.document
+_5956: (x0,x1) => x0.textContent = x1,
+_5960: () => globalThis.document
     };
 
     const baseImports = {
